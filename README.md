@@ -1,2 +1,2 @@
 # ATIVIDADE_IA
-Uma IA que exiliai no trabalho do RPA  
+UMA IA QUE AJUDA NO DESEVOLVIMENTO DE RPA
